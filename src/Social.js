@@ -34,8 +34,8 @@ const Social = () => {
 				</IconButton>
 			</Box>
 			<Box className={classes.bottoms}>
-			<p style={{fontFamily:'Elephant',
-				color: 'white'}}>Made with ❤️ in Bangalore, India</p>
+			<p style={{fontFamily:'Times New Roman',
+				color: 'white'}}>Made with ❤️ in BLR, 🇮🇳</p>
 			</Box>
 		</>
 	)
